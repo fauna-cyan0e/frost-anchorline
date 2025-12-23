@@ -20,7 +20,7 @@ No transactions are signed or sent.
 
 ## Repository layout
 
-- app.frost-anchorline.ts  
+- app/frost-anchorline.ts  
   Browser script handling wallet connection, chain validation, and RPC reads.
 
 - contracts/  
