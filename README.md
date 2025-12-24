@@ -88,24 +88,24 @@ chainId (decimal): 84532
 Explorer: https://sepolia.basescan.org  
 
 Contract #1 address:  
-0x3ea48941cafd72ca1855073ba0cdea91454e1aa3
+0x27ad6ad4B8BE7B1e224810Bb885803fCd828fFB1
 
 Deployment and verification:
-- https://sepolia.basescan.org/address/0x3ea48941cafd72ca1855073ba0cdea91454e1aa3
-- https://sepolia.basescan.org/0x3ea48941cafd72ca1855073ba0cdea91454e1aa3/0#code  
+- https://sepolia.basescan.org/address/0x27ad6ad4B8BE7B1e224810Bb885803fCd828fFB1
+- https://sepolia.basescan.org/0x27ad6ad4B8BE7B1e224810Bb885803fCd828fFB1/0#code  
 
 Contract #2 address:  
-0x02d8e38745b589a7ebcbefb5c55bb4652cfd70a2 
+0xB05166eE6c3e03DDfCCC3C215818c2E764385FC1 
 
 Deployment and verification:
-- https://sepolia.basescan.org/address/0x02d8e38745b589a7ebcbefb5c55bb4652cfd70a2
-- https://sepolia.basescan.org/0x02d8e38745b589a7ebcbefb5c55bb4652cfd70a2/0#code  
+- https://sepolia.basescan.org/address/0xB05166eE6c3e03DDfCCC3C215818c2E764385FC1
+- https://sepolia.basescan.org/0xB05166eE6c3e03DDfCCC3C215818c2E764385FC1/0#code  
 
 Contract #3 address:  
-0xd375773e18d8cca7a5c7ec1174f62dc4da9fa873 
+0x6ace6D799d7Da3d2BdCfDa01bbd73fEC0091fc98 
 
 Deployment and verification:
-- https://sepolia.basescan.org/address/0xd375773e18d8cca7a5c7ec1174f62dc4da9fa873
-- https://sepolia.basescan.org/0xd375773e18d8cca7a5c7ec1174f62dc4da9fa873/0#code  
+- https://sepolia.basescan.org/address/0x6ace6D799d7Da3d2BdCfDa01bbd73fEC0091fc98
+- https://sepolia.basescan.org/0x6ace6D799d7Da3d2BdCfDa01bbd73fEC0091fc98/0#code  
 
 These testnet deployments provide a controlled environment for validating Base tooling, account abstraction flows, and read-only onchain interactions prior to Base Mainnet usage.
